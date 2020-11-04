@@ -20,4 +20,6 @@ let me know if you guys want jquery or just vanilla java script. I recommend doi
 ### DEMO
 ```
 paste gif here
+
+Click me
 ```
