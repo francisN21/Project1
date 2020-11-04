@@ -21,4 +21,4 @@ let password = [];
 // User input can DIY how they want their password
 // example: password = noun + verb + verb + randomChar;
 
-// we need to have a password strength checker that takes the final password value and checks the strength
+// we need to have a password strength checker that takes the final password value and checks the strengthgit
